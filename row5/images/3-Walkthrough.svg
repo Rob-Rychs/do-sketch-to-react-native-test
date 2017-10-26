@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>3-Walkthrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-Walkthrough">
+            <rect id="bg" fill="#50D2C2" x="0" y="667" width="750" height="667"></rect>
+            <g id="next" transform="translate(350.000000, 1224.000000)">
+                <g id="group" transform="translate(25.000000, 25.000000) scale(-1, 1) translate(-25.000000, -25.000000) translate(4.000000, 5.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round">
+                    <polyline id="shape" stroke-linejoin="round" points="20.9963798 39.1236891 0 19.5618445 20.9963798 -3.98411463e-13"></polyline>
+                    <path d="M-2.21211938e-15,19.4285714 L42,19.4285714" id="line"></path>
+                </g>
+                <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+            </g>
+            <g id="group-+-bounds" transform="translate(275.000000, 252.000000)">
+                <g id="group" transform="translate(52.000000, 28.000000)" stroke-width="3">
+                    <g transform="translate(4.000000, 74.000000)" stroke="#50D2C2">
+                        <rect id="shape" x="1.5" y="1.5" width="85" height="85" rx="2"></rect>
+                        <path d="M18.962963,20.5 L68.5037037,20.5" id="line" stroke-linecap="square"></path>
+                        <rect id="oval" x="16.7666667" y="37.5" width="11" height="11" rx="5.5"></rect>
+                        <rect id="oval" x="38.7666667" y="37.5" width="11" height="11" rx="5.5"></rect>
+                        <rect id="oval" x="60.7666667" y="37.5" width="11" height="11" rx="5.5"></rect>
+                        <rect id="oval" x="16.7666667" y="59.3333333" width="11" height="11" rx="5.5"></rect>
+                        <rect id="oval" x="38.7666667" y="59.3333333" width="11" height="11" rx="5.5"></rect>
+                        <rect id="oval" x="61.5" y="59.3333333" width="11" height="11" rx="5.5"></rect>
+                    </g>
+                    <path d="M61.083,49.2868785 C52.504,40.7078785 38.718,40.5848785 30.291,49.0118785 M77.118,34.8058785 C59.96,17.6478785 32.388,17.4008785 15.534,34.2548785 M92.376,19.5478785 C66.639,-6.19012154 25.281,-6.55912154 0,18.7208785" id="shape" stroke="#50D3C2" stroke-linecap="round"></path>
+                </g>
+                <rect id="bounds" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <text id="Manage-your-tasks-qu" font-family="Avenir-Book, Avenir" font-size="30" font-weight="normal" line-spacing="50" letter-spacing="0.5" fill="#FFFFFF">
+                <tspan x="138.565" y="957">Manage your tasks quick and easy </tspan>
+                <tspan x="205.85" y="1007">from anywhere you want</tspan>
+            </text>
+            <g id="navbar">
+                <rect id="bounds" x="0" y="0" width="750" height="128"></rect>
+                <text id="1-of-3" font-family="Avenir-Book, Avenir" font-size="34" font-weight="normal" line-spacing="34" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="330" y="92">1 of </tspan>
+                    <tspan x="400.534" y="92">3</tspan>
+                </text>
+                <g id="close" opacity="0.3" transform="translate(25.000000, 58.000000)">
+                    <g id="group" transform="translate(25.500000, 25.000000) rotate(-270.000000) translate(-25.500000, -25.000000) translate(8.000000, 7.000000)" stroke="#1D1D26" stroke-width="2" stroke-linecap="round">
+                        <path d="M34.5648344,35.1244089 L0.512517705,0.312998136" id="line"></path>
+                        <path d="M0.512517705,35.1244089 L34.5648344,0.312998136" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
