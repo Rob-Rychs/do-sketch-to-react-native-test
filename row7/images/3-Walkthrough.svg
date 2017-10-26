@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>3-Walkthrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-Walkthrough">
+            <g id="phone" transform="translate(90.000000, 429.000000)">
+                <rect id="inner" fill="#1D1D26" opacity="0.1" x="35" y="140" width="500" height="890" rx="6"></rect>
+                <rect id="outer" stroke="#1D1D26" stroke-width="2" opacity="0.2" x="1" y="1" width="568" height="1169" rx="80"></rect>
+                <circle id="oval" stroke="#000000" stroke-width="2" opacity="0.2" cx="285" cy="77" r="6"></circle>
+            </g>
+            <g id="skip-|-next" transform="translate(0.000000, 1214.000000)">
+                <rect id="bg" fill="#D667CD" x="0" y="0" width="750" height="120"></rect>
+                <text id="NEXT" font-family="Avenir-Medium, Avenir" font-size="22" font-weight="400" line-spacing="22" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="530" y="71">NEXT</tspan>
+                </text>
+                <path d="M375,35 L375,85" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.3" stroke-linecap="square"></path>
+                <text id="SKIP" font-family="Avenir-Medium, Avenir" font-size="22" font-weight="400" line-spacing="22" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="160" y="71">SKIP</tspan>
+                </text>
+            </g>
+            <rect id="bg" fill="#6563A4" x="126" y="999" width="500" height="215"></rect>
+            <g id="3" transform="translate(260.000000, 1082.000000)">
+                <path d="M70.71875,13.4508671 L230,13.4508671" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M70.71875,37.0404624 L202.75,37.0404624" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <g id="overdue">
+                    <g id="group" transform="translate(3.000000, 3.000000)" stroke="#FFFFFF" stroke-width="3">
+                        <path d="M1.5,22 C1.5,33.3238829 10.6770227,42.5 22,42.5 C33.3229773,42.5 42.5,33.3238829 42.5,22 C42.5,10.6801657 33.3207401,1.5 22,1.5 C10.6792599,1.5 1.5,10.6801657 1.5,22 Z" id="oval"></path>
+                        <rect id="shape" x="21.5" y="30.5" width="1" height="1"></rect>
+                        <path d="M22.5,12.2426299 L22.5,22.9293682" id="line" stroke-linecap="square"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <rect id="bg" fill="#8C88FF" x="126" y="784" width="500" height="215"></rect>
+            <g id="2" transform="translate(262.000000, 866.000000)">
+                <path d="M70.71875,14.4508671 L203,14.4508671" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M70.71875,38.0404624 L226.75,38.0404624" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <g id="snoozed" transform="translate(0.000000, 0.500000)">
+                    <g id="group" transform="translate(2.880000, 2.862745)" stroke="#FFFFFF" stroke-width="3">
+                        <path d="M1.5,22 C1.5,33.3238829 10.6770227,42.5 22,42.5 C33.3229773,42.5 42.5,33.3238829 42.5,22 C42.5,10.6801657 33.3207401,1.5 22,1.5 C10.6792599,1.5 1.5,10.6801657 1.5,22 Z" id="oval"></path>
+                        <polyline id="shape" points="31.2790509 26.1925333 19.0237318 26.1925333 19.0237318 12.2533333"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <path d="M126,575.003004 C126,571.687637 128.690136,569 132.007799,569 L619.992201,569 C623.310217,569 626,571.679477 626,575.003004 L626,784 L126,784 L126,575.003004 Z" id="bg" fill="#50D2C2"></path>
+            <g id="1" transform="translate(254.000000, 651.000000)">
+                <path d="M70.71875,13.4508671 L243,13.4508671" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <path d="M70.71875,37.0404624 L166.75,37.0404624" id="line" stroke="#FFFFFF" stroke-width="3" stroke-linecap="square"></path>
+                <g id="completed" transform="translate(0.000000, 0.500000)">
+                    <g id="group" transform="translate(2.880000, 2.862745)" stroke="#FFFFFF" stroke-width="3">
+                        <path d="M1.5,22 C1.5,33.3238829 10.6770227,42.5 22,42.5 C33.3229773,42.5 42.5,33.3238829 42.5,22 C42.5,10.6801657 33.3207401,1.5 22,1.5 C10.6792599,1.5 1.5,10.6801657 1.5,22 Z" id="oval"></path>
+                        <polyline id="line" points="11.1376 21.3728272 18.500201 28.6094118 33.1024 14.2533333"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <text id="Manage-your-tasks-qu" font-family="Avenir-Light, Avenir" font-size="30" font-weight="300" line-spacing="50" letter-spacing="0.5" fill="#1D1D26">
+                <tspan x="194.255" y="236">Manage your tasks quickly </tspan>
+                <tspan x="278.46" y="286">and efficiently</tspan>
+            </text>
+            <g id="page-controller" transform="translate(316.000000, 80.000000)">
+                <circle id="inactive" fill="#1D1D26" opacity="0.2" cx="110.84" cy="8" r="8"></circle>
+                <circle id="inactive" fill="#1D1D26" opacity="0.2" cx="59.84" cy="8" r="8"></circle>
+                <circle id="active" fill="#00B9FF" cx="8.84" cy="8" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
