@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>3-Walkthrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M50,0 L50,800 L4.00718972,800 C1.79407995,800 0,798.206975 0,796.003488 L0,3.99651189 C0,1.78929932 1.79426827,0 4.00718972,0 L50,0 Z" id="path-1"></path>
+        <filter x="-26.0%" y="-1.4%" width="152.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="1" y="0" width="560" height="860" rx="4"></rect>
+        <filter x="-2.3%" y="-1.3%" width="104.6%" height="103.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M0,0 L0,800 L45.9928103,800 C48.2059201,800 50,798.206975 50,796.003488 L50,3.99651189 C50,1.78929932 48.2057317,0 45.9928103,0 L0,0 Z" id="path-5"></path>
+        <filter x="-26.0%" y="-1.4%" width="152.0%" height="103.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-Walkthrough">
+            <g id="page-controller" transform="translate(316.000000, 1248.000000)">
+                <circle id="inactive" fill="#1D1D26" opacity="0.1" cx="110" cy="10" r="8"></circle>
+                <circle id="inactive" fill="#6563A4" cx="59" cy="10" r="10"></circle>
+                <circle id="active" fill="#1D1D26" opacity="0.1" cx="8" cy="10" r="8"></circle>
+            </g>
+            <g id="card" transform="translate(700.000000, 299.000000)">
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M50,0 L50,600 L0,600 L0,3.99010666 C0,1.7864316 1.79426827,0 4.00718972,0 L50,0 Z" id="bg" fill="#50D2C2"></path>
+            </g>
+            <g id="card" transform="translate(94.000000, 268.000000)">
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <text id="Manage-your-tasks-qu" font-family="Avenir-Light, Avenir" font-size="30" font-weight="300" line-spacing="50" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="100.255" y="710">Manage your tasks quickly </tspan>
+                    <tspan x="184.46" y="760">and efficiently</tspan>
+                </text>
+                <path d="M4.99015537,0 C2.78645341,0 1,1.78833856 1,3.99010666 L1,600 L561,600 L561,3.99010666 C561,1.7864316 559.215125,0 557.009845,0 L4.99015537,0 Z" id="bg" fill="#D667CD"></path>
+                <g id="tasks" transform="translate(154.000000, 174.000000)" stroke="#FFFFFF" stroke-width="3">
+                    <g id="-3" transform="translate(0.000000, 202.000000)">
+                        <path d="M81.71875,14.4508671 L244,14.4508671" id="line" stroke-linecap="square"></path>
+                        <path d="M81.71875,38.0404624 L197.75,38.0404624" id="line" stroke-linecap="square"></path>
+                        <g id="group">
+                            <path d="M1.67375,25.9947864 C1.67375,38.9758069 12.1937675,49.4947864 25.17375,49.4947864 C38.1537325,49.4947864 48.67375,38.9758069 48.67375,25.9947864 C48.67375,13.0183754 38.1511992,2.49478635 25.17375,2.49478635 C12.1963008,2.49478635 1.67375,13.0183754 1.67375,25.9947864 Z" id="oval"></path>
+                            <polyline id="line" points="11.89535 25.8619333 20.4083574 34.227927 37.29215 17.6313045"></polyline>
+                        </g>
+                    </g>
+                    <g id="-2" transform="translate(0.000000, 101.000000)">
+                        <path d="M81.71875,14.4508671 L224,14.4508671" id="line" stroke-linecap="square"></path>
+                        <path d="M81.71875,38.0404624 L197.75,38.0404624" id="line" stroke-linecap="square"></path>
+                        <g id="group">
+                            <path d="M1.67375,25.9947864 C1.67375,38.9758069 12.1937675,49.4947864 25.17375,49.4947864 C38.1537325,49.4947864 48.67375,38.9758069 48.67375,25.9947864 C48.67375,13.0183754 38.1511992,2.49478635 25.17375,2.49478635 C12.1963008,2.49478635 1.67375,13.0183754 1.67375,25.9947864 Z" id="oval"></path>
+                            <polyline id="line" points="11.89535 25.8619333 20.4083574 34.227927 37.29215 17.6313045"></polyline>
+                        </g>
+                    </g>
+                    <g id="1">
+                        <path d="M81.71875,14.4508671 L254,14.4508671" id="line" stroke-linecap="square"></path>
+                        <path d="M81.71875,38.0404624 L177.75,38.0404624" id="line" stroke-linecap="square"></path>
+                        <g id="group">
+                            <path d="M1.67375,25.9947864 C1.67375,38.9758069 12.1937675,49.4947864 25.17375,49.4947864 C38.1537325,49.4947864 48.67375,38.9758069 48.67375,25.9947864 C48.67375,13.0183754 38.1511992,2.49478635 25.17375,2.49478635 C12.1963008,2.49478635 1.67375,13.0183754 1.67375,25.9947864 Z" id="oval"></path>
+                            <polyline id="line" points="11.89535 25.8619333 20.4083574 34.227927 37.29215 17.6313045"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="card" transform="translate(0.000000, 299.000000)">
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <path d="M0,0 L0,600 L50,600 L50,3.99010666 C50,1.7864316 48.2057317,0 45.9928103,0 L0,0 Z" id="color" fill="#6563A4"></path>
+            </g>
+            <g id="navbar">
+                <rect id="bounds" x="0" y="0" width="750" height="128"></rect>
+                <text id="Walkthrough" font-family="Avenir-Book, Avenir" font-size="34" font-weight="normal" line-spacing="34" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="115" y="94">Walkthroug</tspan>
+                    <tspan x="293.74" y="94">h</tspan>
+                </text>
+                <g id="menu" opacity="0.3" transform="translate(25.000000, 58.000000)">
+                    <g id="group" transform="translate(5.000000, 8.000000)" stroke="#1D1D26" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,1 L40,1" id="line"></path>
+                        <path d="M0,17 L40,17" id="line"></path>
+                        <path d="M0,33 L40,33" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
