@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>9-Create</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="9-Create">
+            <rect id="nav-bg" fill="#BA77FF" x="0" y="0" width="750" height="420"></rect>
+            <g id="7" transform="translate(43.000000, 1192.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="Repeat">
+                    <tspan x="0" y="28">Repea</tspan>
+                    <tspan x="81.88" y="28">t</tspan>
+                </text>
+                <text id="No">
+                    <tspan x="624" y="28">No</tspan>
+                </text>
+            </g>
+            <path d="M40,1146 L710,1146" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="6" transform="translate(42.000000, 1071.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="People">
+                    <tspan x="0" y="28">Peopl</tspan>
+                    <tspan x="74.572" y="28">e</tspan>
+                </text>
+                <text id="None">
+                    <tspan x="595" y="28">None</tspan>
+                </text>
+            </g>
+            <path d="M40,1025 L710,1025" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="5" transform="translate(40.000000, 950.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="Notification">
+                    <tspan x="0" y="28">Notificatio</tspan>
+                    <tspan x="135.56" y="28">n</tspan>
+                </text>
+                <text id="via-SMS">
+                    <tspan x="567" y="28">via SMS</tspan>
+                </text>
+            </g>
+            <path d="M40,904 L710,904" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="4" transform="translate(40.000000, 829.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="Location">
+                    <tspan x="0" y="28">Locatio</tspan>
+                    <tspan x="94.752" y="28">n</tspan>
+                </text>
+                <text id="None">
+                    <tspan x="598" y="28">None</tspan>
+                </text>
+            </g>
+            <path d="M40,783 L710,783" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="3" transform="translate(40.000000, 701.000000)">
+                <text id="All-day" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="0" y="35">All day</tspan>
+                </text>
+                <g id="switch-off" transform="translate(633.000000, 21.000000) rotate(-180.000000) translate(-633.000000, -21.000000) translate(596.000000, 1.000000)">
+                    <path d="M54,34 L14,34 C6.2,34 0,27.8 0,20 C0,12.2 6.2,6 14,6 L54,6 C61.8,6 68,12.2 68,20 C68,27.8 61.8,34 54,34 Z" id="track" fill-opacity="0.300000012" fill="#1D1D26" opacity="0.5"></path>
+                    <circle id="knob" fill="#BEBEC1" cx="54" cy="20" r="20"></circle>
+                </g>
+            </g>
+            <path d="M40,662 L710,662" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="2" transform="translate(40.000000, 587.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="9:00am--–--10:00am">
+                    <tspan x="414" y="28">9:00am  –  10:00am</tspan>
+                </text>
+                <text id="Select-time">
+                    <tspan x="0" y="28">Select time</tspan>
+                </text>
+            </g>
+            <path d="M40,541 L710,541" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+            <g id="1" transform="translate(40.000000, 466.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="28" letter-spacing="0.5" fill="#1D1D26" font-size="28">
+                <text id="Select-date">
+                    <tspan x="0" y="28">Select date</tspan>
+                </text>
+                <text id="February-9,-2015-">
+                    <tspan x="445.7" y="28">February 9, 2015 </tspan>
+                </text>
+            </g>
+            <text id="Description" font-family="Avenir-Light, Avenir" font-size="28" font-weight="300" line-spacing="28" letter-spacing="0.5" fill="#FFFFFF">
+                <tspan x="300.5" y="310">Description</tspan>
+            </text>
+            <text id="Title" font-family="Avenir-Light, Avenir" font-size="70" font-weight="300" line-spacing="70" letter-spacing="1" fill="#FFFFFF">
+                <tspan x="304" y="251">Title</tspan>
+            </text>
+            <g id="navbar">
+                <rect id="bounds" x="0" y="0" width="750" height="128"></rect>
+                <g id="create" transform="translate(673.000000, 58.000000)">
+                    <g id="group" transform="translate(3.000000, 8.000000)" stroke-width="2" stroke="#FFFFFF">
+                        <polyline id="shape" points="0 14.8776574 14.7488 30 44 0"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Add-New" font-family="Avenir-Light, Avenir" font-size="34" font-weight="300" line-spacing="34" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="301.5" y="94">Add New</tspan>
+                </text>
+                <g id="close" transform="translate(23.000000, 58.000000)">
+                    <g id="group" transform="translate(25.500000, 25.000000) rotate(-270.000000) translate(-25.500000, -25.000000) translate(8.000000, 7.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round">
+                        <path d="M34.5648344,35.1244089 L0.512517705,0.312998136" id="line"></path>
+                        <path d="M0.512517705,35.1244089 L34.5648344,0.312998136" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

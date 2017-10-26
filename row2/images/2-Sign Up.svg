@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>2-Sign Up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-Sign-Up">
+            <rect id="bg" fill="#BA77FF" x="0" y="0" width="750" height="500"></rect>
+            <g id="sign-in" transform="translate(185.000000, 1258.000000)" font-weight="normal" font-family="Avenir-Book, Avenir" line-spacing="26" fill="#1D1D26" font-size="26">
+                <text id="Sign-In">
+                    <tspan x="308" y="26">Sign In</tspan>
+                </text>
+                <text id="Already-have-an-acco" opacity="0.5">
+                    <tspan x="0" y="26">Already have an account?</tspan>
+                </text>
+            </g>
+            <g id="gender" transform="translate(40.000000, 1038.000000)">
+                <path d="M1.26454403e-14,72 L670,72" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+                <text id="Gender" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="78" y="39">Gender</tspan>
+                </text>
+                <g opacity="0.3" transform="translate(0.000000, 0.948000)">
+                    <g id="group" transform="translate(6.000000, 1.000000)" stroke-width="2">
+                        <path d="M17,36.4615385 L17,47.5768565" id="line" stroke="#1D1D26" stroke-linecap="square"></path>
+                        <path d="M11,43.052 L23,43.052" id="line" stroke="#000000" stroke-linecap="square"></path>
+                        <circle id="shape" stroke="#000000" cx="17" cy="20" r="16"></circle>
+                        <path d="M29,9.052 L36.0710677,1.98093211" id="line" stroke="#000000" stroke-linecap="square"></path>
+                        <polyline id="shape" stroke="#000000" points="28 0 38 0 38 10"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="birthday" transform="translate(40.000000, 916.000000)">
+                <path d="M1.26454403e-14,72 L670,72" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+                <text id="Birthday" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="78" y="39">Birthday</tspan>
+                </text>
+                <g opacity="0.3" transform="translate(0.000000, 0.948000)">
+                    <g id="group" transform="translate(5.000000, 4.000000)" stroke="#1D1D26" stroke-width="2">
+                        <rect id="shape" x="1" y="17" width="38" height="24"></rect>
+                        <path d="M20,18.8461538 L20,39.2242369" id="line" stroke-linecap="square"></path>
+                        <path d="M25.662,12.334 L25.662,13.334 L26.662,13.334 L26.662,12.334 L25.662,12.334 Z M20.995,12.334 L19.995,12.334 L19.995,13.334 L20.995,13.334 L20.995,12.334 Z M14.661,12.333 L13.661,12.333 L13.661,13.333 L14.661,13.333 L14.661,12.333 Z M25.662,12.334 L20.995,12.334 L20.995,12.333 L14.661,12.333 L14.661,12.3217281 L13.6607281,12.322 C10.5351799,12.3228498 8,9.78766993 8,6.661 C8,3.53491616 10.5346533,1 13.661,1 C16.3242709,1 18.6121328,2.85492328 19.1856141,5.41938305 L20.1614669,9.78314392 L21.1374019,5.41940143 C21.7109234,2.85498864 23.9985027,1 26.662,1 C29.7887153,1 32.323,3.53428475 32.323,6.661 C32.323,9.78858384 29.7888466,12.323 26.662,12.323 L25.662,12.323 L25.662,12.334 Z" id="shape"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="password" transform="translate(40.000000, 794.000000)">
+                <path d="M1.26454403e-14,72 L670,72" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+                <text id="Password" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="78" y="39">Password</tspan>
+                </text>
+                <g opacity="0.3" transform="translate(0.000000, 0.948000)">
+                    <g id="group" transform="translate(5.000000, 3.000000)" stroke="#1D1D26" stroke-width="2">
+                        <rect id="shape" x="1" y="17.6136364" width="37.0243902" height="23.4090909"></rect>
+                        <path d="M7.80487805,16.6136364 L7.80487805,11.6051136 C7.80487805,5.20605398 13.0567805,0 19.5121951,0 C25.9676098,0 31.2195122,5.20605398 31.2195122,11.6051136 L31.2195122,16.6136364" id="shape"></path>
+                        <path d="M19.5121951,26.6118881 L19.5121951,32.0432367" id="line" stroke-linecap="square"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="email" transform="translate(40.000000, 672.000000)">
+                <path d="M1.26454403e-14,72 L670,72" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+                <text id="Email" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="78" y="39">Emai</tspan>
+                    <tspan x="141.712" y="39">l</tspan>
+                </text>
+                <g opacity="0.3" transform="translate(0.000000, 0.948000)">
+                    <g id="group" transform="translate(5.000000, 8.000000)" stroke="#1D1D26" stroke-width="2">
+                        <rect id="shape" x="1" y="1" width="38" height="32"></rect>
+                        <polyline id="shape" points="39.700944 0 20.350556 19.5101695 1 0"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="name" transform="translate(40.000000, 550.000000)">
+                <path d="M1.26454403e-14,71 L670,71" id="line" stroke="#1D1D26" stroke-width="2" opacity="0.05" stroke-linecap="square"></path>
+                <text id="Name" font-family="Avenir-Book, Avenir" font-size="28" font-weight="normal" line-spacing="28" letter-spacing="0.5" fill="#1D1D26">
+                    <tspan x="78" y="38">Name</tspan>
+                </text>
+                <g opacity="0.3" transform="translate(0.000000, 0.934833)">
+                    <path d="M44,41.7725694 L44,42.7725694 L45,41.7725694 L44,41.7725694 Z M6,41.7725694 L5,41.7725694 L6,42.7725694 L6,41.7725694 Z M44,41.7725694 L6,41.7725694 L6,37.71875 C6,32.7229014 16.2083842,28.6111111 25,28.6111111 C33.7916158,28.6111111 44,32.7229014 44,37.71875 L44,41.7725694 Z M25,22.6666667 C29.4008217,22.6666667 33,19.117477 33,14.7916667 C33,10.4658563 29.4008217,6.91666667 25,6.91666667 C20.5991783,6.91666667 17,10.4658563 17,14.7916667 C17,19.117477 20.5991783,22.6666667 25,22.6666667 Z" id="shape" stroke="#1D1D26" stroke-width="2"></path>
+                    <rect id="bounds" x="0" y="0" width="50" height="49.3055556"></rect>
+                </g>
+            </g>
+            <g id="add-photo" transform="translate(325.000000, 240.000000)">
+                <g id="group" transform="translate(1.000000, 0.000000)" stroke="#FFFFFF" stroke-width="2">
+                    <path d="M48.1455061,30.6323529 L48.6041874,30.6323529 L47.8462798,30.2847148 L48.1455061,30.6323529 Z M26.6301669,30.6323529 L26.9293932,30.2847148 L26.1714855,30.6323529 L26.6301669,30.6323529 Z M26.6301669,30.6323529 L48.1455061,30.6323529 L54.8753166,38.4509804 L67.2981057,38.4509804 C70.8482595,38.4509804 73.775673,41.5119165 73.775673,45.2696078 L73.775673,92.1813725 C73.775673,95.9390639 70.8482595,99 67.2981057,99 L7.4775673,99 C3.92741348,99 1,95.9390639 1,92.1813725 L1,45.2696078 C1,41.5119165 3.92741348,38.4509804 7.4775673,38.4509804 L19.9003563,38.4509804 L26.6301669,30.6323529 Z M37.0172815,83.6973039 C28.0649967,83.6973039 21.0172815,76.6495887 21.0172815,67.6973039 C21.0172815,58.7450192 28.0649967,51.6973039 37.0172815,51.6973039 C45.9695662,51.6973039 53.0172815,58.7450192 53.0172815,67.6973039 C53.0172815,76.6495887 45.9695662,83.6973039 37.0172815,83.6973039 Z" id="shape"></path>
+                    <path d="M71,14 L99,14" id="line" stroke-linecap="square"></path>
+                    <path d="M85,0 L85,28" id="line" stroke-linecap="square"></path>
+                </g>
+                <rect id="bounds" x="0" y="0" width="100" height="100"></rect>
+            </g>
+            <g id="navbar">
+                <rect id="bounds" x="0" y="0" width="750" height="128"></rect>
+                <g id="done" transform="translate(673.000000, 58.000000)">
+                    <g id="group" transform="translate(3.000000, 8.000000)" stroke-width="2" stroke="#FFFFFF">
+                        <polyline id="shape" points="0 14.8776574 14.7488 30 44 0"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Create-Account" font-family="Avenir-Book, Avenir" font-size="34" font-weight="normal" line-spacing="34" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="254.5" y="94">Create Account</tspan>
+                </text>
+                <g id="back" transform="translate(25.000000, 58.000000)">
+                    <g id="group" transform="translate(5.000000, 5.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round">
+                        <polyline id="shape" stroke-linejoin="round" points="20.9963798 39.1236891 0 19.5618445 20.9963798 -3.98411463e-13"></polyline>
+                        <path d="M-2.2759572e-15,19.4285714 L40,19.4285714" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
