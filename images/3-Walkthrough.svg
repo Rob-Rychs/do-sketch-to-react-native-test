@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>3-Walkthrough</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-Walkthrough">
+            <g id="next" transform="translate(0.000000, 1214.000000)">
+                <rect id="bg" fill="#FF3366" x="0" y="0" width="750" height="120"></rect>
+                <text id="Next" font-family="Avenir-Light, Avenir" font-size="30" font-weight="300" line-spacing="30" fill="#FFFFFF">
+                    <tspan x="343" y="71">Next</tspan>
+                </text>
+            </g>
+            <text id="Keep-your-work-organ" font-family="Avenir-Book, Avenir" font-size="30" font-weight="normal" line-spacing="50" letter-spacing="0.5" fill="#1D1D26">
+                <tspan x="162.965" y="994">Keep your work organized and </tspan>
+                <tspan x="141.465" y="1044">quickly check your reminders with </tspan>
+                <tspan x="262.94" y="1094">simple calendar.</tspan>
+            </text>
+            <g id="calendar" transform="translate(225.000000, 380.000000)">
+                <circle id="bg" stroke="#FF3366" stroke-width="2" cx="150" cy="150" r="150"></circle>
+                <g transform="translate(90.000000, 90.000000)">
+                    <g id="group" stroke="#FF3366" stroke-width="2">
+                        <rect id="shape" x="1" y="1" width="118" height="118" rx="4"></rect>
+                        <path d="M20.3636364,25 L99.6363636,25" id="line" stroke-linecap="square"></path>
+                        <rect id="circle" x="21.1515152" y="49.4242424" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                        <rect id="circle" x="51.1515152" y="49.4242424" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                        <rect id="circle" x="81.1515152" y="49.4242424" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                        <rect id="circle" x="21.1515152" y="81.8636364" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                        <rect id="circle" x="51.1515152" y="81.8636364" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                        <rect id="circle" x="81.4848485" y="81.8636364" width="17.0909091" height="17.0909091" rx="8.54545455"></rect>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="120" height="120"></rect>
+                </g>
+            </g>
+            <g id="page-controller" transform="translate(316.000000, 80.000000)">
+                <circle id="inactive" fill="#1D1D26" opacity="0.2" cx="110.84" cy="8" r="8"></circle>
+                <circle id="inactive" fill="#1D1D26" opacity="0.2" cx="59.84" cy="8" r="8"></circle>
+                <circle id="active" fill="#FF3366" cx="8.84" cy="8" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
