@@ -9,3 +9,7 @@ This test repo is organized by folders representing rows of 13 UI views.
 Any errors are recorded in the row README.txt file
 
 `sketch-to-react-native`
+
+## Todo
+
+- Storybook.js to test/run the views
