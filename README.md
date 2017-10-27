@@ -12,4 +12,6 @@ Any errors are recorded in the row README.txt file
 
 ## Todo
 
-- Storybook.js to test/run the views
+- Storybook.js to test/run the views?
+
+- checkout examples locally with `react-native run-ios dosketchapp`
