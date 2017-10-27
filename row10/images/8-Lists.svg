@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>8-Lists</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#21D0FD" offset="0%"></stop>
+            <stop stop-color="#EE4DB9" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="50" cy="50" r="50"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8-Lists">
+            <g id="bg-+-overlay">
+                <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="750" height="1334"></rect>
+                <rect id="overlay" fill="#1D1D26" opacity="0.1" x="0" y="128" width="750" height="1076"></rect>
+            </g>
+            <g id="tab-bar" transform="translate(325.000000, 1219.000000)">
+                <g id="add">
+                    <g id="bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="group" transform="translate(25.000000, 25.000000)">
+                        <g transform="translate(4.000000, 4.000000)" id="line" stroke="#D667CD" stroke-width="2" stroke-linecap="square">
+                            <path d="M21,0 L21,42"></path>
+                            <path d="M0,21 L42,21"></path>
+                        </g>
+                        <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="7" transform="translate(59.000000, 1092.000000)">
+                <g id="do" opacity="0.2" transform="translate(1.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Yogurt" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="91" y="36">Zurich</tspan>
+                </text>
+            </g>
+            <path d="M0,1051 L750,1051" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="7" transform="translate(60.000000, 960.000000)">
+                <g id="do" opacity="0.2">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Bora-Bora" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="36">Bora Bora</tspan>
+                </text>
+            </g>
+            <path d="M-5.68434189e-14,919 L750,919" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="6" transform="translate(60.000000, 828.000000)">
+                <circle id="status" fill="#FFFFFF" opacity="0.3" cx="630" cy="25" r="10"></circle>
+                <g id="do" opacity="0.2" transform="translate(0.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="San-Francisco" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="36">San Francisco</tspan>
+                </text>
+            </g>
+            <path d="M-5.68434189e-14,787 L750,787" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="5" transform="translate(60.000000, 696.000000)">
+                <g id="do" opacity="0.2" transform="translate(0.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Cheese" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="35">New York</tspan>
+                </text>
+            </g>
+            <path d="M-5.68434189e-14,655 L750,655" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="4" transform="translate(60.000000, 564.000000)">
+                <g id="done" transform="translate(0.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Bread" opacity="0.3" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="32">Maui</tspan>
+                </text>
+            </g>
+            <path d="M-5.68434189e-14,523 L750,523" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="3" transform="translate(60.000000, 432.000000)">
+                <text id="Barcelona" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="36">Barcelona</tspan>
+                </text>
+                <circle id="status" fill="#FFFFFF" opacity="0.3" cx="630" cy="25" r="10"></circle>
+                <g id="do" opacity="0.2" transform="translate(0.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <path d="M-5.68434189e-14,391 L750,391" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="2" transform="translate(60.000000, 300.000000)">
+                <g id="done" transform="translate(0.000000, 0.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="Bananas" opacity="0.3" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="36">London</tspan>
+                </text>
+            </g>
+            <path d="M-5.68434189e-14,259 L750,259" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="1" transform="translate(60.000000, 172.000000)">
+                <text id="Paris" font-family="Avenir-Book, Avenir" font-size="32" font-weight="normal" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                    <tspan x="90" y="32">Paris</tspan>
+                </text>
+                <g id="do" opacity="0.2" transform="translate(0.000000, 2.000000)">
+                    <polyline id="shape" stroke="#FFFFFF" stroke-width="2" points="3 22.8776574 17.7488 38 47 8"></polyline>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="navbar">
+                <rect id="bounds" fill="#00B9FF" x="0" y="0" width="750" height="128"></rect>
+                <g id="search" opacity="0.6" transform="translate(673.000000, 58.000000)">
+                    <g id="group" transform="translate(25.000000, 25.500000) scale(-1, 1) translate(-25.000000, -25.500000) translate(3.000000, 4.000000)" stroke="#FFFFFF" stroke-width="2">
+                        <ellipse id="oval" cx="24.4118953" cy="19.5454545" rx="18.5295162" ry="18.5454545"></ellipse>
+                        <path d="M10.252996,33.6714876 L0.660643179,42.3989253" id="line" stroke-linecap="round"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <text id="TRAVEL" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" line-spacing="24" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="326" y="90">TRAVEL</tspan>
+                </text>
+                <g id="menu" opacity="0.6" transform="translate(27.000000, 58.000000)">
+                    <g id="group" transform="translate(3.000000, 14.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,21 L44,21" id="line"></path>
+                        <path d="M0,1 L44,1" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

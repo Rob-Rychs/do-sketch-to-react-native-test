@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="1334px" viewBox="0 0 750 1334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>6-Overview</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#21D0FD" offset="0%"></stop>
+            <stop stop-color="#EE4DB9" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="50" cy="50" r="50"></circle>
+        <filter x="-14.0%" y="-10.0%" width="128.0%" height="128.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="do" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-Overview">
+            <g id="bg-+-overlay">
+                <rect id="bg" fill="url(#linearGradient-1)" x="0" y="0" width="750" height="1334"></rect>
+                <rect id="overlay" fill="#1D1D26" opacity="0.1" x="0" y="128" width="750" height="1076"></rect>
+            </g>
+            <g id="tab-bar" transform="translate(70.000000, 1219.000000)">
+                <g id="overview" transform="translate(560.000000, 25.000000)">
+                    <g id="group" stroke="#FFFFFF" stroke-width="2.27272727">
+                        <rect id="shape" x="1.13636364" y="1.13636364" width="47.7272727" height="47.7272727" rx="4.54545455"></rect>
+                        <path d="M35.2272727,25.5702253 L35.2272727,36.9297747 C35.2272727,38.4993037 36.4997815,39.7727273 38.0681818,39.7727273 C39.6343134,39.7727273 40.9090909,38.498284 40.9090909,36.9297747 L40.9090909,25.5702253 C40.9090909,24.0006963 39.6365822,22.7272727 38.0681818,22.7272727 C36.5020503,22.7272727 35.2272727,24.001716 35.2272727,25.5702253 Z" id="oval"></path>
+                        <path d="M22.7272727,14.2069302 L22.7272727,36.9294335 C22.7272727,38.4996197 23.9995183,39.7727273 25.5681818,39.7727273 C27.1342916,39.7727273 28.4090909,38.498153 28.4090909,36.9294335 L28.4090909,14.2069302 C28.4090909,12.6367439 27.1368453,11.3636364 25.5681818,11.3636364 C24.0020721,11.3636364 22.7272727,12.6382107 22.7272727,14.2069302 Z" id="oval"></path>
+                        <path d="M10.2272727,19.8842282 L10.2272727,36.9339536 C10.2272727,38.5027471 11.4983399,39.7727273 13.0681818,39.7727273 C14.6345804,39.7727273 15.9090909,38.4998891 15.9090909,36.9339536 L15.9090909,19.8842282 C15.9090909,18.3154347 14.6380237,17.0454545 13.0681818,17.0454545 C11.5017832,17.0454545 10.2272727,18.3182927 10.2272727,19.8842282 Z" id="oval"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <g id="add" transform="translate(255.000000, 0.000000)">
+                    <g id="bg">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="group" transform="translate(25.000000, 25.000000)">
+                        <g transform="translate(4.000000, 4.000000)" id="line" stroke="#D667CD" stroke-width="2" stroke-linecap="square">
+                            <path d="M21,0 L21,42"></path>
+                            <path d="M0,21 L42,21"></path>
+                        </g>
+                        <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                    </g>
+                </g>
+                <g id="calendar" opacity="0.6" transform="translate(0.000000, 25.000000)">
+                    <g id="group" stroke="#FFFFFF" stroke-width="2.27272727">
+                        <rect id="shape" x="1.13636364" y="1.13636364" width="47.7272727" height="47.7272727" rx="4.54545455"></rect>
+                        <path d="M10.7744108,11.6792929 L38.9225589,11.6792929" id="line" stroke-linecap="square"></path>
+                        <rect id="oval" x="9.81060606" y="21.5909091" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                        <rect id="oval" x="22.3106061" y="21.5909091" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                        <rect id="oval" x="34.8106061" y="21.5909091" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                        <rect id="oval" x="9.81060606" y="33.9962121" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                        <rect id="oval" x="22.3106061" y="33.9962121" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                        <rect id="oval" x="35.2272727" y="33.9962121" width="5.68181818" height="5.68181818" rx="2.84090909"></rect>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+            <g id="graph" transform="translate(85.000000, 702.000000)" fill="#FFFFFF">
+                <g id="10" transform="translate(567.000000, 70.800155)">
+                    <rect id="Rectangle-1362" opacity="0.6" x="0.93615503" y="0.287710568" width="12" height="326.403172"></rect>
+                    <rect id="Rectangle-1362" x="0.93615503" y="105.780922" width="12" height="221.373516"></rect>
+                </g>
+                <g id="8" transform="translate(441.000000, 133.409957)">
+                    <rect id="Rectangle-1361" opacity="0.6" x="0.0353902364" y="0.425904754" width="12" height="263.532516"></rect>
+                    <rect id="Rectangle-1361" x="0.0822747095" y="53.413699" width="12" height="211.113889"></rect>
+                </g>
+                <g id="9" transform="translate(504.000000, 0.163455)">
+                    <rect id="Rectangle-1362" opacity="0.6" x="0.93615503" y="0.158716632" width="12" height="397.211618"></rect>
+                    <rect id="Rectangle-1362" x="0.93615503" y="128.537154" width="12" height="269.397297"></rect>
+                </g>
+                <g id="7" transform="translate(378.000000, 133.409957)">
+                    <rect id="Rectangle-1360" opacity="0.6" x="0.976848649" y="0.425904754" width="12" height="263.532516"></rect>
+                    <rect id="Rectangle-1360" x="0.976848649" y="140.36058" width="12" height="124.132933"></rect>
+                </g>
+                <g id="6" transform="translate(315.000000, 232.943488)">
+                    <rect id="Rectangle-1359" opacity="0.6" x="0.968077515" y="1.01579293" width="12" height="161.059777"></rect>
+                    <rect id="Rectangle-1359" x="0.968077515" y="36.2825735" width="12" height="129.02376"></rect>
+                </g>
+                <g id="5" transform="translate(252.000000, 168.728307)">
+                    <rect id="Rectangle-1385" opacity="0.6" x="0.0313106078" y="0.56021368" width="12" height="227.971829"></rect>
+                    <rect id="Rectangle-1385" x="0.0313106078" y="46.4281641" width="12" height="182.626494"></rect>
+                </g>
+                <g id="4" transform="translate(189.000000, 51.535600)">
+                    <rect id="Rectangle-1358" opacity="0.6" x="0.85388032" y="0.476577462" width="12" height="345.035227"></rect>
+                    <rect id="Rectangle-1358" x="0.85388032" y="69.6287528" width="12" height="276.40509"></rect>
+                </g>
+                <g id="3" transform="translate(126.000000, 123.777679)">
+                    <rect id="Rectangle-1357" opacity="0.6" x="1" y="0.889050906" width="12" height="272.379274"></rect>
+                    <rect id="Rectangle-1357" x="1" y="55.6050581" width="12" height="218.20096"></rect>
+                </g>
+                <g id="2" transform="translate(63.000000, 164.714858)">
+                    <rect id="Rectangle-1357" opacity="0.6" x="1" y="0.250979568" width="12" height="232.083455"></rect>
+                    <rect id="Rectangle-1357" x="1" y="46.8722949" width="12" height="185.920287"></rect>
+                </g>
+                <g id="1" transform="translate(0.000000, 92.472778)">
+                    <rect id="Rectangle-1357" opacity="0.6" x="1" y="0.595829893" width="12" height="303.672431"></rect>
+                    <rect id="Rectangle-1357" x="1" y="105.95256" width="12" height="199.823595"></rect>
+                </g>
+            </g>
+            <path d="M0,641 L750,641" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="overdue" transform="translate(504.000000, 330.000000)" fill="#FFFFFF">
+                <rect id="overdude" opacity="0.6" x="48" y="232" width="20" height="20"></rect>
+                <text id="OVERDUE" opacity="0.5" font-family="Avenir-Book, Avenir" font-size="22" font-weight="normal" line-spacing="22" letter-spacing="2">
+                    <tspan x="0" y="192">OVERDUE</tspan>
+                </text>
+                <text id="4" font-family="Avenir-Light, Avenir" font-size="120" font-weight="300" line-spacing="120">
+                    <tspan x="27" y="120">4</tspan>
+                </text>
+            </g>
+            <path d="M375,290 L375,640" id="line" stroke="#FFFFFF" stroke-width="2" opacity="0.2" stroke-linecap="square"></path>
+            <g id="completed" transform="translate(112.000000, 330.000000)" fill="#FFFFFF">
+                <rect x="65" y="232" width="20" height="20"></rect>
+                <text id="COMPLETED" opacity="0.5" font-family="Avenir-Book, Avenir" font-size="22" font-weight="normal" line-spacing="22" letter-spacing="2">
+                    <tspan x="0" y="192">COMPLETED</tspan>
+                </text>
+                <text id="36" font-family="Avenir-Light, Avenir" font-size="120" font-weight="300" line-spacing="120">
+                    <tspan x="13" y="120">36</tspan>
+                </text>
+            </g>
+            <path d="M0,289 L750,289" id="line" stroke="#FFFFFF" opacity="0.3" stroke-linecap="square"></path>
+            <g id="month-picker" transform="translate(88.000000, 178.000000)">
+                <text id="Day" font-family="Avenir-Light, Avenir" font-size="50" font-weight="300" line-spacing="50" letter-spacing="1" fill="#FAFAFA">
+                    <tspan x="0.5" y="50">Day</tspan>
+                </text>
+                <text id="Week" font-family="Avenir-Light, Avenir" font-size="50" font-weight="300" line-spacing="50" letter-spacing="1" fill="#FAFAFA">
+                    <tspan x="191" y="50">Week</tspan>
+                </text>
+                <text id="Month" font-family="Avenir-Light, Avenir" font-size="50" font-weight="300" line-spacing="50" letter-spacing="1" fill="#FAFAFA">
+                    <tspan x="421.5" y="50">Month</tspan>
+                </text>
+                <path d="M426,66 L567.086929,66" id="Line" stroke="#FAFAFA" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+            <g id="dates" opacity="0.6" transform="translate(71.000000, 1122.000000)" font-size="22" font-family="Avenir-Book, Avenir" line-spacing="22" fill="#FFFFFF" font-weight="normal">
+                <text id="27">
+                    <tspan x="572.094" y="22.2364532">27</tspan>
+                </text>
+                <text id="24">
+                    <tspan x="509.094" y="22.2364532">24</tspan>
+                </text>
+                <text id="21">
+                    <tspan x="446.094" y="22.2364532">21</tspan>
+                </text>
+                <text id="18">
+                    <tspan x="383.094" y="22.2364532">18</tspan>
+                </text>
+                <text id="15">
+                    <tspan x="320.094" y="22.2364532">15</tspan>
+                </text>
+                <text id="12">
+                    <tspan x="257.094" y="22.2364532">12</tspan>
+                </text>
+                <text id="9">
+                    <tspan x="200.21" y="22.2364532">9</tspan>
+                </text>
+                <text id="6">
+                    <tspan x="137.21" y="22.2364532">6</tspan>
+                </text>
+                <text id="3">
+                    <tspan x="74.21" y="22.2364532">3</tspan>
+                </text>
+                <text id="1">
+                    <tspan x="10.7516667" y="22.2364532">1</tspan>
+                </text>
+            </g>
+            <g id="navbar">
+                <rect id="bounds" fill="#00B9FF" x="0" y="0" width="750" height="128"></rect>
+                <text id="MARCH-2015" font-family="Avenir-Book, Avenir" font-size="24" font-weight="normal" line-spacing="24" letter-spacing="2" fill="#FFFFFF">
+                    <tspan x="291.5" y="90">MARCH 2015</tspan>
+                </text>
+                <g id="right" opacity="0.6" transform="translate(684.000000, 58.000000)">
+                    <g id="group" transform="translate(14.000000, 5.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline id="shape" transform="translate(11.500000, 20.000000) rotate(-180.000000) translate(-11.500000, -20.000000) " points="22 40 1 20 22 -4.07335271e-13"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <g id="left" opacity="0.6" transform="translate(584.000000, 58.000000)">
+                    <g id="group" transform="translate(15.000000, 5.000000)" stroke-linecap="round" stroke-width="2" stroke="#FFFFFF" stroke-linejoin="round">
+                        <polyline id="shape" points="21 40 0 20 21 -4.07335271e-13"></polyline>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+                <g id="menu" opacity="0.6" transform="translate(27.000000, 58.000000)">
+                    <g id="group" transform="translate(3.000000, 14.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,21 L44,21" id="line"></path>
+                        <path d="M0,1 L44,1" id="line"></path>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="50" height="50"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
